@@ -51,7 +51,7 @@ endmodule
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
 
-Developed by:santhosh sivakumar RegisterNumber:25013000
+Developed by:KALAIMARAN RegisterNumber:212225230120
 
 */
 
